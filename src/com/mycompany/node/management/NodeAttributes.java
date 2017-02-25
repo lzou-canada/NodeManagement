@@ -1,4 +1,4 @@
-package backend.node.management;
+package com.mycompany.node.management;
 
 /**
  * Created by Fei Chen on 2/25/2017.
