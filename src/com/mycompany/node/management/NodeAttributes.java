@@ -5,6 +5,7 @@ package com.mycompany.node.management;
  */
 public enum NodeAttributes
 {
+    // add one line in here
     NODE_ATTRIBUTES_UNKNOWN(0,"UNKNOWN"),
     NODE_ATTRIBUTES_TYPE(1,"Type"),
     NODE_ATTRIBUTES_SHELF(2,"Shelf"),
