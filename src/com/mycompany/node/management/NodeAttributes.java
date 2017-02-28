@@ -5,6 +5,7 @@ package com.mycompany.node.management;
  */
 public enum NodeAttributes
 {
+    // add one more line in RESTApi for the OSS repo testing
     // add one line to advance the node management branch
     // add one line in here
     NODE_ATTRIBUTES_UNKNOWN(0,"UNKNOWN"),
