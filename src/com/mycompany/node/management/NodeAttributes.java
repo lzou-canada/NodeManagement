@@ -16,6 +16,7 @@ public enum NodeAttributes
     private int index;
     private String name;
 
+    // add one line here in NodeAttributes for the NodeManagement repo testing
     NodeAttributes(int index, String name)
     {
         this.index = index;
