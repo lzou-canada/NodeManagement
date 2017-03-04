@@ -23,6 +23,7 @@ public enum NodeAttributes
         this.name = name;
     }
 
+    // add B to move PTS-199
     public int getIndex()
     {
         return index;
