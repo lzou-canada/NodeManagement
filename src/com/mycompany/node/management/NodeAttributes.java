@@ -24,6 +24,7 @@ public enum NodeAttributes
     }
 
     // add B to move PTS-199
+    // add A move the feature-1
     public int getIndex()
     {
         return index;
