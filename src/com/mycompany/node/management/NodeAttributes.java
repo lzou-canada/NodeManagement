@@ -27,6 +27,7 @@ public enum NodeAttributes
     // add A move the feature-1
     public int getIndex()
     {
+        // add F to move master
         return index;
     }
 
