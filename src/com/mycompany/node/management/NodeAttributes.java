@@ -13,6 +13,7 @@ public enum NodeAttributes
     NODE_ATTRIBUTES_CARD(3,"Card"),
     NODE_ATTRIBUTES_PORT(4,"Port");
 
+    // add line B2 to move the master
     // add line B1 to move the master
     private int index;
     private String name;
