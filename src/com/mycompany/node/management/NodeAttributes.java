@@ -18,6 +18,7 @@ public enum NodeAttributes
     private int index;
     private String name;
 
+    // add line A2 to move the PTS-200
     // add one line here in NodeAttributes for the NodeManagement repo testing
     NodeAttributes(int index, String name)
     {
