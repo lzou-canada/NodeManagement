@@ -26,6 +26,7 @@ public enum NodeAttributes
         this.name = name;
     }
 
+    // add line A3 to move the PTS-200
     // add line B3 to move the master
     // add E to move PTS-199
     // add C to move PTS-199
