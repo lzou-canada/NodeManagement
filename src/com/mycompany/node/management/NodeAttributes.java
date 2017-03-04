@@ -30,6 +30,7 @@ public enum NodeAttributes
         return index;
     }
 
+    // add D to move master
     // add C to move master
     public String getName()
     {
