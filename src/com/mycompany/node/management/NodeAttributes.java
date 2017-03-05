@@ -17,6 +17,7 @@ public enum NodeAttributes
     NODE_ATTRIBUTES_CARD(3,"Card"),
     NODE_ATTRIBUTES_PORT(4,"Port");
 
+    // add line D1 to move the feature-production
     // add line E2 to further move the master
     // add line E1 to move the master
     // add line B5 to further move the master
