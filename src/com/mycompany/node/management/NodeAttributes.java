@@ -5,6 +5,7 @@ package com.mycompany.node.management;
  */
 public enum NodeAttributes
 {
+    // add B1 to move the master branch
     // add line B5 to move the master
     // add one line to advance the node management branch
     // add one line in here
