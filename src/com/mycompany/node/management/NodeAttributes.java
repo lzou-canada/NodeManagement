@@ -24,6 +24,7 @@ public enum NodeAttributes
     private int index;
     private String name;
 
+    // add line C2 to move the feature-poc after merge with master
     // add line C1 to move the feature-poc
     // add line A2 to move the PTS-200
     // add one line here in NodeAttributes for the NodeManagement repo testing
